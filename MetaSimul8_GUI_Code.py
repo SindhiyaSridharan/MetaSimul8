@@ -1,8 +1,6 @@
-#Name: Sindhiya Sridharan
-#Student Id: 201629979 
 
 
-# This is MetaSimul8 UI code : Kinldy use this to work with MetaSimul8
+# This is MetaSimul8 GUI code : Kindly use this to work with MetaSimul8 Software
 import tkinter as tk
 from tkinter import messagebox
 import pandas as pd
