@@ -1,6 +1,3 @@
-# Name : Sindhiya Sridharan
-# Student Id: 201629979
-
 
 # This is the main backend simulation code
 
